@@ -1,4 +1,5 @@
-nom=input("please entre your name")
-age=int(input("please entre your age"))
-print(f"bonjour {nom} ,tu as {age} et bienvune a l'universite")
-n=input("wait")
+nom=input("donner votre  nom : ")
+age = int(input("donner votre age : "))
+
+
+print("votre nom est :", nom, "votre age est :" ,age)
